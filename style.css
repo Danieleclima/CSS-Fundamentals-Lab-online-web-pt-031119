@@ -42,4 +42,5 @@ section[id="details"] {
 section[id="details"] div {
   display: block;
   float: left;
+  width: 25%;
 }
